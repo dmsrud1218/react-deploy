@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.689b7bff.css",
-    "main.js": "/react-deploy/static/js/main.5896a88b.js",
-    "static/js/351.f88d269a.chunk.js": "/react-deploy/static/js/351.f88d269a.chunk.js",
-    "static/js/689.a464fca3.chunk.js": "/react-deploy/static/js/689.a464fca3.chunk.js",
-    "static/media/kakao_logo.svg": "/react-deploy/static/media/kakao_logo.976fd2de0dc47a40dc4cad638b9b69e1.svg",
-    "index.html": "/react-deploy/index.html",
-    "main.689b7bff.css.map": "/react-deploy/static/css/main.689b7bff.css.map",
-    "main.5896a88b.js.map": "/react-deploy/static/js/main.5896a88b.js.map",
-    "351.f88d269a.chunk.js.map": "/react-deploy/static/js/351.f88d269a.chunk.js.map",
-    "689.a464fca3.chunk.js.map": "/react-deploy/static/js/689.a464fca3.chunk.js.map"
+    "main.css": "/static/css/main.689b7bff.css",
+    "main.js": "/static/js/main.4e4bf36e.js",
+    "static/js/875.0b6ce25e.chunk.js": "/static/js/875.0b6ce25e.chunk.js",
+    "static/media/kakao_logo.svg": "/static/media/kakao_logo.976fd2de0dc47a40dc4cad638b9b69e1.svg",
+    "index.html": "/index.html",
+    "main.689b7bff.css.map": "/static/css/main.689b7bff.css.map",
+    "main.4e4bf36e.js.map": "/static/js/main.4e4bf36e.js.map",
+    "875.0b6ce25e.chunk.js.map": "/static/js/875.0b6ce25e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689b7bff.css",
-    "static/js/main.5896a88b.js"
+    "static/js/main.4e4bf36e.js"
   ]
 }
